@@ -1,4 +1,4 @@
 # Git_Learning
 
 #EGG-DOSA
-1. 2 EGGS ADDED
+1. 1 EGGS ADDED
