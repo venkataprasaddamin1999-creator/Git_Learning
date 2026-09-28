@@ -8,7 +8,6 @@
 
 
 #revert Dosa
-<<<<<<< HEAD
 *adding 1 commit
 
 
